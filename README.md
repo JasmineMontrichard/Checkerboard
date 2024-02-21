@@ -2,7 +2,7 @@
 <div align="center">
   <p>
     <br>
-    <img src="https://github.com/JasmineMontrichard/Checkerboard/assets/156850072/4671bf36-43f8-43f5-adfe-51e17c58ee18" alt="checkerboard preview" width="30%" height="30%"/>
+    <img src="https://github.com/JasmineMontrichard/Checkerboard/assets/156850072/4671bf36-43f8-43f5-adfe-51e17c58ee18" alt="checkerboard preview" width="40%" height="40%"/>
   </p>
 </div>
 
