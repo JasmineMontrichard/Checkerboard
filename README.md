@@ -7,7 +7,7 @@
 </div>
 
 ### Background
-The purpose of this project was to experiment with JavaFX graphics and the tools it provides. This JavaFX Applications draws a checkerboard consisting of checkered red and black squares. Then, it draws the player's and the opponent's playing pieces according to the default layout of a normal Checkers game. The checkerboard and its pieces are displayed ontop of a light blue background.
+The purpose of this project was to experiment with JavaFX graphics and the tools it provides. This JavaFX Application draws a checkerboard consisting of checkered red and black squares. Then, it draws the player's and the opponent's playing pieces according to the default layout of a normal Checkers game. The checkerboard and its pieces are displayed ontop of a light blue background.
 
 ### Notes
 * N/A
